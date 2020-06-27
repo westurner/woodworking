@@ -139,3 +139,7 @@ cython_debug/
 
 # cqparts local install
 cqparts*
+
+# .jupyter settings
+.local/
+.jupyter/
