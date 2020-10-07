@@ -1,0 +1,6 @@
+[submodule "src/woodnuk"]
+	path = src/woodnuk
+	url = ssh://git@github.com/westurner/woodnuk
+[submodule "src/jupyter-cadquery"]
+	path = src/jupyter-cadquery
+	url = ssh://git@github.com/westurner/jupyter-cadquery
