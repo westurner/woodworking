@@ -4,3 +4,6 @@
 [submodule "src/jupyter-cadquery"]
 	path = src/jupyter-cadquery
 	url = ssh://git@github.com/westurner/jupyter-cadquery
+[submodule "src/cqparts"]
+	path = src/cqparts
+	url = https://github.com/CapableRobot/cqparts
